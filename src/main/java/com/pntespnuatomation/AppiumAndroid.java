@@ -17,7 +17,7 @@ public class AppiumAndroid {
         DesiredCapabilities cap = new DesiredCapabilities();
         cap.setCapability(MobileCapabilityType.PLATFORM_NAME, MobilePlatform.ANDROID);
         cap.setCapability(MobileCapabilityType.PLATFORM_VERSION, "10");
-        cap.setCapability(MobileCapabilityType.UDID, "LMK500T89LGAXWT8PF");
+        cap.setCapability(MobileCapabilityType.UDID, "R58MB6BJ6SZ");
 
         cap.setCapability(MobileCapabilityType.APP, System.getProperty("user.dir") + "src/main/resources/ESPN.apk");
 

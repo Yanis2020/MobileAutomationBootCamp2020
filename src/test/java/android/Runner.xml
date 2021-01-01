@@ -5,11 +5,11 @@
 
     <parameter name="platform" value="android"/>
     <parameter name="platformVersion" value="10"/>
-    <parameter name="udid" value="LMK500T89LGAXWT8PF"/>
+    <parameter name="udid" value="R58MB6BJ6SZ"/>
     <parameter name="deviceName" value=""/>
     <parameter name="automationName" value=""/>
-    <parameter name="appPackage" value="com.espn"/>
-    <parameter name="appActivity" value="com.td.dcts.android.us.app.SplashScreenActivity"/>
+    <parameter name="appPackage" value="com.espn.score_center"/>
+    <parameter name="appActivity" value="com.espn.sportscenter.ui.EspnLaunchActivity"/>
     <parameter name="bundleId" value=""/>
 
 
